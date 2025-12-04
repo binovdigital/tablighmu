@@ -1,0 +1,41 @@
+{
+  "name": "affan-nextjs-template",
+  "version": "1.9.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "apexcharts": "^5.2.0",
+    "bootstrap": "^5.3.7",
+    "next": "^15.4.1",
+    "nvm": "^0.0.4",
+    "react": "^18.3.1",
+    "react-18-image-lightbox": "^5.1.4",
+    "react-apexcharts": "^1.7.0",
+    "react-countup": "^6.5.3",
+    "react-dom": "^18.3.1",
+    "react-intersection-observer": "^9.16.0",
+    "react-modal-video": "^2.0.2",
+    "react-password-checklist": "^1.8.1",
+    "react-responsive-masonry": "^2.7.1",
+    "react-timer-hook": "^3.0.8",
+    "react-use": "^17.6.0",
+    "sass": "^1.89.2",
+    "sharp": "^0.33.4",
+    "swiper": "^11.2.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-modal-video": "^1.2.3",
+    "@types/react-responsive-masonry": "^2.1.3",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4",
+    "typescript": "^5"
+  }
+}
