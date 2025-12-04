@@ -7,7 +7,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 const HeroSlider = () => {
 	return (
 		<>
-			<div className="container">
+			<div>
 				<div className="tiny-slider-one-wrapper">
 				<div
 					className="tns-controls"
