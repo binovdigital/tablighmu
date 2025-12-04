@@ -4,7 +4,7 @@ import React from "react";
 const Banner = () => {
 	return (
 		<>
-			<div>
+			<div className="container">
 				<div
 					className="card bg-primary mb-3 bg-img"
 					style={{ backgroundImage: `url(/assets/img/core-img/1.png)` }}
